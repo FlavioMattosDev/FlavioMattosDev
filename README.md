@@ -1,4 +1,4 @@
-### E ae! Eu sou o Flávio Mattos, estudante de programação e amante da tecnologia!
+### Architect learning how to code 👨‍💻
 <div align="center">
   <a href="https://github.com/FlavioMattosDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioMattosDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
